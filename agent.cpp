@@ -1,5 +1,9 @@
 #include<iostream>
 
+//代理模式：
+//我好喜欢她，为了追她，我打算送她包和花朵。
+//
+
 class SchoolGirl
 {
 public:
